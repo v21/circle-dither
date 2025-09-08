@@ -1,3 +1,8 @@
+source for https://vbuckenham.com/circle_dither/
+
+
+
+
 <div align="center">
 
   <h1><code>wasm-pack-template</code></h1>
